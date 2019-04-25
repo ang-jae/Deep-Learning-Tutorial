@@ -9,8 +9,3 @@ def NAND(x1, x2):
         return 0
     else:
         return 1
-
-print(NAND(0,0))
-print(NAND(0,1))
-print(NAND(1,0))
-print(NAND(1,1))

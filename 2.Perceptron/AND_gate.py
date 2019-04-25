@@ -5,8 +5,3 @@ def AND(x1, x2):
         return 0
     elif tmp > theta:
         return 1
-
-    AND(0, 0)
-    AND(1, 0)
-    AND(0, 1)
-    AND(1, 1)
